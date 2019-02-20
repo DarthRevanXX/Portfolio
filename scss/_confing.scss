@@ -2,8 +2,8 @@ $primary-color: #444;
 $secondary-color: #eece1a;
 $show-home-image: true;
 $home-image: url(/dist/img/background.jpg);
-$home-portrait: url(/dist/img/portrait.jpg);
-$home-small-portrait: url(/dist/img/portrait_small.jpg);
+$home-portrait: url(../dist/img/portrait.jpg);
+$home-small-portrait: url(../dist/img/portrait_small.jpg);
 $background-opacity: 0.9;
 //git
 @mixin easeOut {
